@@ -65,8 +65,28 @@
 - Focus: building strong fundamentals and understanding model behavior deeply  
 
 ---
+## 📚 Learning Roadmap
+
+* ✅ Python Fundamentals
+* ✅ Data Analysis (NumPy, Pandas)
+* 🔄 Machine Learning (Scikit-Learn)
+* ⏳ Deep Learning (CNNs, RNNs, Transformers)
+* ⏳ MLOps & Deployment
+
+---
+
+## 🎯 Goals
+
+* Build **production-level ML systems**
+* Contribute to **AI research / open-source**
+* Master **end-to-end ML pipelines**
+* Transition from **learner → expert builder**
+## ⚡ Fun Fact
+Most of my learning comes from breaking my own models and figuring out why they failed — that’s where the real engineering happens.
+
 
 ## 📫 Contact
 
 - Email: zaman.yushey@gmail.com
 - GitHub: https://github.com/Void-glitch-code
+-  LinkedIn: https://www.linkedin.com/in/h-zaman-4465962a2/
