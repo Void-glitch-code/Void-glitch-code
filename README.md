@@ -1,51 +1,58 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Hamza Uzzaman
 
-## 🚀 Machine Learning Engineer
+# Hamza Uzzaman
 
-⚡ Engineering AI systems that solve real problems  
-🧠 Machine Learning | Computer Vision | Data Systems  
-🚀 From raw data to deployed intelligence — building end-to-end solutions  
+### Machine Learning Engineer | Building Real Systems
 
----
-
-## 🌍 About Me
-- 🌍 Based in India  
-- ✉️ Contact: **zaman.yushey@gmail.com**  
-- 🧠 Currently learning: **Advanced ML & Deep Learning**  
+I build practical machine learning systems — not notebooks that die after execution.
 
 ---
 
-## 🔥 Projects
-- 🔹 **Personalized Course Pathway AI**  
-  *(LangChain + Google API, adaptive learning system)*  
+## 🚀 Projects
 
-- 🔹 **Computer Vision Applications**  
-  *(OpenCV-based real-world implementations)*  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
-</p>
+### 🏠 House Price Predictor
+- Built a regression model to predict real estate prices  
+- Feature engineering on location, area, amenities  
+- Models used: Linear Regression, Random Forest  
+- Tech: Python, Pandas, Scikit-learn  
+- Goal: End-to-end ML pipeline (data → model → prediction)
 
 ---
 
-## 🌐 Connect
-<p align="left">
-<a href="https://github.com/Void-glitch-code" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
+### 🧠 Machine Learning Test Projects
+Collection of core ML implementations to master fundamentals:
+
+- Classification (Logistic Regression, KNN)
+- Regression (Linear, Ridge, Lasso)
+- Model evaluation (Cross-validation, metrics)
+- Data preprocessing pipelines
+
+> Focus: understanding algorithms deeply, not just using libraries
+
+---
+
+### 🤖 Personalized Course Pathway AI
+- Agent-based system that generates learning roadmaps  
+- Uses LLM + LangChain + APIs  
+- Includes skill analysis + adaptive recommendations  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java  
+**ML/Data:** Scikit-learn, Pandas, NumPy  
+**AI:** OpenCV, LangChain  
+**Backend:** Flask, FastAPI  
+**Database:** PostgreSQL, MongoDB  
+
+---
+
+## 📈 What I'm Focused On
+
+- Building deployable ML systems  
+- Improving model performance & pipelines  
+- Moving from projects → production-level AI  
 
 ---
 
@@ -56,6 +63,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Void-glitch-code&theme=dark&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-glitch-code&layout=compact&theme=dark&hide_border=true"/>
-</p>
+---
+
+## 📫 Contact
+
+- Email: zaman.yushey@gmail.com
+- GitHub: https://github.com/Void-glitch-code
