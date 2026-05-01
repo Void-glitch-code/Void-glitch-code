@@ -1,7 +1,23 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Hamza Uzzaman
 
 # 💫 About Me:
-I build practical machine learning systems — not notebooks that die after execution.
+
+* 🎓 B.Tech in Computer Science & Engineering
+* 🧠 Focused on **Machine Learning, Deep Learning, and AI Systems**
+* 🛠️ Hands-on with **Python, OpenCV, Scikit-Learn, Pandas, NumPy**
+* ⚡ Builder mindset — prefer **projects over theory**
+* 📈 Currently pushing towards **advanced ML + real-world deployment**
+
+---
+
+## 🔥 Current Focus
+
+* 📊 Mastering **Scikit-Learn & Core ML Concepts**
+* 🤖 Building **Agentic AI Systems**
+* 🧠 Deep Diving into **Deep Learning Architectures**
+* 🎯 Creating **end-to-end ML projects (data → model → UI → deployment)**
+
+---
 <br>
 
 
