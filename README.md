@@ -68,10 +68,11 @@
 ## 📚 Learning Roadmap
 
 * ✅ Python Fundamentals
-* ✅ Data Analysis (NumPy, Pandas)
-* 🔄 Machine Learning (Scikit-Learn)
+* ✅ Fast-Api,Streamlit,Flask
+* 🔄 (100)Days-Machine Learning 
 * ⏳ Deep Learning (CNNs, RNNs, Transformers)
 * ⏳ MLOps & Deployment
+* 🤖Computer Vision
 
 ---
 
