@@ -7,7 +7,8 @@
 * 🛠️ Hands-on with **Python, OpenCV, Scikit-Learn, Pandas, NumPy**
 * ⚡ Builder mindset — prefer **projects over theory**
 * 📈 Currently pushing towards **advanced ML + real-world deployment**
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/e0775c50-e76d-4287-b083-986599113bae" />
+
 ---
 
 ## 🔥 Current Focus
