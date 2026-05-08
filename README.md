@@ -1,8 +1,3 @@
-
-<img src="<img width="941" height="1672" alt="HHwuaj2WAAUwaT8" src="https://github.com/user-attachments/assets/4d81b9de-feaf-492f-a3fb-284f4b692391" width="400" height="700">
-
-
-
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Hamza Uzzaman
 
 # 💫 About Me:
