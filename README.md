@@ -1,5 +1,5 @@
 
-<img width="941" height="1672" alt="HHwuaj2WAAUwaT8" src="https://github.com/user-attachments/assets/cda8f28a-ddac-4e0a-8005-bfdc8d8a4d09" />
+<img width="941" height="1672" alt="HHwuaj2WAAUwaT8" src="https://github.com/user-attachments/assets/cda8f28a-ddac-4e0a-8005-bfdc8d8a4d09" width=800px />
 
 
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Hamza Uzzaman
