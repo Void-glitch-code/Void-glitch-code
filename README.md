@@ -1,4 +1,5 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Hamza Uzzaman
+<img width="460" height="498" alt="GetoSuguruYoGIF" src="https://github.com/user-attachments/assets/a8fbea75-333a-44fd-86d0-a38d1ca8bd83" />
 
 # 💫 About Me:
 
